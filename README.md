@@ -33,7 +33,7 @@ src/
 
 # Instalación y ejecución: 
 
-git clone https://github.com/tuusuario/todo-app.git
+git clone (https://github.com/monsebernal0812/To-Do-App)
 cd todo-app
 
 # Instalar dependencias: 
